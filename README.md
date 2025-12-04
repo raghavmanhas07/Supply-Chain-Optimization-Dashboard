@@ -1,4 +1,4 @@
-# 🚛 Supply Chain Command Center
+# 🚛 Supply Chain optimisation dashboard
 
 ![Dashboard Preview](Dashboard.png)
 
