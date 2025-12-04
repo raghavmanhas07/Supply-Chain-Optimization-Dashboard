@@ -1,6 +1,6 @@
 # 🚛 Supply Chain Command Center
 
-![Dashboard Preview](dashboard_screenshot.png)
+![Dashboard Preview](Dashboard.png)
 
 ## 📌 Project Overview
 An end-to-end analytics project analyzing **180,000+ logistics records** to improve On-Time Delivery (OTD) rates and reduce financial penalties.
