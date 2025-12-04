@@ -18,9 +18,9 @@ An end-to-end analytics project analyzing **180,000+ logistics records** to impr
 * **Metric Tracking:** Built dynamic DAX measures to track OTD% against a 95% target.
 
 ## 📂 Files Included
-* `EDA.py` - Python script for ETL and cost calculation.
+* `data_cleaning.py` - Python script for ETL and cost calculation.
 * `analysis_queries.sql` - Advanced SQL queries (Rankings, Trends).
 * `supply_chain_dashboard.pbix` - The Power BI file.
 
 ---
-*Connect with me on LinkedIn: [Link]*
+
